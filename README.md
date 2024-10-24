@@ -24,7 +24,9 @@ python -m pytest -s
 Structure:
 
 `pages` - folder with base & main file for PageObject pattern.
+
 `tests` - folder with tests
+
 `./conftest.py` - default file for fixture
 
 
